@@ -1,0 +1,51 @@
+.calendar-container {
+  --calendar-cell-size: 20px;
+  --calendar-gap: 1px;
+  --calendar-padding: 4px;
+  
+  width: calc(7 * var(--calendar-cell-size) + 8 * var(--calendar-gap) + 2 * var(--calendar-padding));
+  min-width: 140px;
+  max-width: 240px;
+}
+
+.calendar-cell {
+  width: var(--calendar-cell-size);
+  height: var(--calendar-cell-size);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2px;
+  transition: all 0.2s ease;
+  font-size: 0.65rem;
+}
+
+.calendar-header {
+  padding: var(--calendar-padding);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.65rem;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, var(--calendar-cell-size));
+  gap: var(--calendar-gap);
+  padding: var(--calendar-padding);
+}
+
+.calendar-nav {
+  padding: 2px;
+}
+
+.calendar-nav button {
+  width: 18px;
+  height: 18px;
+  padding: 0;
+}
+
+@media (max-width: 640px) {
+  .calendar-container {
+    --calendar-cell-size: 18px;
+    --calendar-gap: 1px;
+    --calendar-padding: 3px;
+  }
+}

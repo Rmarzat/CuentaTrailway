@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-start: #1e293b;
+  --background-end: #0f766e;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.bg-gradient {
+  background: linear-gradient(
+    135deg,
+    var(--background-start),
+    var(--background-end)
+  );
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-gradient::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 20% 30%, rgba(56, 189, 248, 0.08) 0%, transparent 70%),
+    radial-gradient(circle at 80% 70%, rgba(20, 184, 166, 0.08) 0%, transparent 70%),
+    radial-gradient(circle at 50% 50%, rgba(45, 212, 191, 0.05) 0%, transparent 50%);
+  filter: blur(120px);
+  transform: scale(1.2);
+  pointer-events: none;
+  z-index: 0;
+}
+
+@keyframes bounce-gentle {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-bounce {
+  animation: bounce 1s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+.animate-pulse {
+  animation: pulse 1s ease-in-out infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-2px);
+  }
+}
+
+.animate-bounce-gentle {
+  animation: bounce-gentle 2s ease-in-out infinite;
+}
+
+@keyframes pulse-gentle {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-pulse-gentle {
+  animation: pulse-gentle 2s ease-in-out infinite;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(24px);
+  border-radius: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.15);
+}
+
+input, button, [role="tab"] {
+  height: 42px !important;
+  background: transparent !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.4) !important;
+}
+
+input:focus {
+  background: rgba(255, 255, 255, 0.03) !important;
+  border-color: rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.03) !important;
+}
+
+[role="tablist"] {
+  background: transparent !important;
+  border: none !important;
+  padding: 0.25rem !important;
+  display: grid !important;
+  gap: 0.5rem !important;
+}
+
+[role="tab"] {
+  background: transparent !important;
+  border: none !important;
+  margin: 0 !important;
+  transition: all 0.2s ease-in-out !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+}
+
+.text-red-500 {
+  color: rgb(255, 150, 150) !important;
+}
+
+.text-emerald-500 {
+  color: rgb(150, 255, 180) !important;
+}
+
+.bg-red-100\/10 {
+  background: rgba(255, 150, 150, 0.05) !important;
+  border: 1px solid rgba(255, 150, 150, 0.1);
+  backdrop-filter: blur(12px);
+  border-radius: var(--inner-radius);
+}
+
+.bg-emerald-100\/10 {
+  background: rgba(150, 255, 180, 0.05) !important;
+  border: 1px solid rgba(150, 255, 180, 0.1);
+  backdrop-filter: blur(12px);
+  border-radius: var(--inner-radius);
+}

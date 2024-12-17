@@ -1,0 +1,1336 @@
+{
+  "MasterExchangeRates": [
+    {
+      "id": "09b119f3-e3a3-4eb3-8e4c-63f3311521d9",
+      "date": "2024-06-30",
+      "currency": "U$S",
+      "rate": 39.989,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f4b8c83e-9b22-47bf-a5e9-8a89414015e0",
+      "date": "2024-07-01",
+      "currency": "U$S",
+      "rate": 40.027,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f5b00e22-0f6a-44fd-bf0d-be5233107e3a",
+      "date": "2024-07-02",
+      "currency": "U$S",
+      "rate": 40.288,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3b225485-0b51-49b3-b83e-bb9e7f88bd0e",
+      "date": "2024-07-03",
+      "currency": "U$S",
+      "rate": 40.042,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "993f4e95-2d5a-48db-8973-e3b7dd5940e5",
+      "date": "2024-07-04",
+      "currency": "U$S",
+      "rate": 39.961,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "02694ac4-4bca-4083-a0e1-451e93029777",
+      "date": "2024-07-05",
+      "currency": "U$S",
+      "rate": 40.132,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ecc2740b-7a2d-4e52-a6ae-aa29d1b43080",
+      "date": "2024-07-06",
+      "currency": "U$S",
+      "rate": 40.132,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3e2a87bb-4857-499c-9560-7f602c86357f",
+      "date": "2024-07-07",
+      "currency": "U$S",
+      "rate": 40.132,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "25a81e95-a00a-400b-89b2-6a759336eefe",
+      "date": "2024-07-08",
+      "currency": "U$S",
+      "rate": 40.061,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "01b3acb7-ad3d-4afb-840c-5d74e5fcbd4f",
+      "date": "2024-07-09",
+      "currency": "U$S",
+      "rate": 39.922,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "277cec75-eb43-4354-be88-1ea793c2362d",
+      "date": "2024-07-10",
+      "currency": "U$S",
+      "rate": 40.064,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "8bb0545f-a94f-48d4-8be6-e3a0fb60f950",
+      "date": "2024-07-11",
+      "currency": "U$S",
+      "rate": 40.021,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "e5d4dd69-912b-4209-8623-7e27449164dc",
+      "date": "2024-07-12",
+      "currency": "U$S",
+      "rate": 40.103,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "109e43d1-713f-4a51-8222-81a2c5c4dcc1",
+      "date": "2024-07-13",
+      "currency": "U$S",
+      "rate": 40.103,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "337b35fd-e934-44af-acbd-13883e623b44",
+      "date": "2024-07-14",
+      "currency": "U$S",
+      "rate": 40.103,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "21dc11f4-2fbc-4eab-ae1e-f8020bca44dc",
+      "date": "2024-07-15",
+      "currency": "U$S",
+      "rate": 40.145,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "9e31e0b6-9045-492b-80a5-4446df580b7d",
+      "date": "2024-07-16",
+      "currency": "U$S",
+      "rate": 40.141,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "4cd91ed3-5b0a-471b-9de2-5f3f306a46e6",
+      "date": "2024-07-17",
+      "currency": "U$S",
+      "rate": 40.284,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "af7cf456-11d7-400b-a3e4-87884eecbf5b",
+      "date": "2024-07-18",
+      "currency": "U$S",
+      "rate": 40.284,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "554b11d6-0afe-4ea7-baef-a8a42670bddd",
+      "date": "2024-07-19",
+      "currency": "U$S",
+      "rate": 40.454,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3a182e26-1d9f-493f-8230-1c79df7f3d86",
+      "date": "2024-07-20",
+      "currency": "U$S",
+      "rate": 40.454,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "7a398fe6-c7a9-418b-a867-4a7ab2dc9ea3",
+      "date": "2024-07-21",
+      "currency": "U$S",
+      "rate": 40.454,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "024c0f72-cfb6-4958-985d-6a2ca301f81e",
+      "date": "2024-07-22",
+      "currency": "U$S",
+      "rate": 40.116,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "36613f26-2877-42f5-adbd-2fb1f385ac30",
+      "date": "2024-07-23",
+      "currency": "U$S",
+      "rate": 40.173,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "46acc311-0f34-43c9-bc56-0e57ddcd8bf5",
+      "date": "2024-07-24",
+      "currency": "U$S",
+      "rate": 40.243,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ff7df5e4-9cfc-45dd-96b0-67cb47396416",
+      "date": "2024-07-25",
+      "currency": "U$S",
+      "rate": 40.28,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "43e6b0f5-798d-4afe-aef5-47703ae1df83",
+      "date": "2024-07-26",
+      "currency": "U$S",
+      "rate": 40.261,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "706c2056-c5e0-48cf-a9ef-6cfdd327b092",
+      "date": "2024-07-27",
+      "currency": "U$S",
+      "rate": 40.261,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "759c9ccc-c091-4309-b30b-223fc1a6e8f7",
+      "date": "2024-07-28",
+      "currency": "U$S",
+      "rate": 40.261,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0a35a8f5-a421-4e89-bb1a-c127dd84ac01",
+      "date": "2024-07-29",
+      "currency": "U$S",
+      "rate": 40.281,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "5e6885d5-a116-4b30-a3f1-6f3bccee7ef0",
+      "date": "2024-07-30",
+      "currency": "U$S",
+      "rate": 40.282,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f4a97e98-5c10-495a-a65d-cd2344dfc170",
+      "date": "2024-07-31",
+      "currency": "U$S",
+      "rate": 40.274,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "46e5a4f9-d678-45f9-a180-3192279416b7",
+      "date": "2024-08-01",
+      "currency": "U$S",
+      "rate": 40.348,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "8508bb72-8676-4065-a065-b89d65cf60df",
+      "date": "2024-08-02",
+      "currency": "U$S",
+      "rate": 40.459,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3960b3be-15fa-4669-808f-2a0af6cb80a6",
+      "date": "2024-08-03",
+      "currency": "U$S",
+      "rate": 40.459,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "56bdce9f-a417-48ce-a645-d2b8ec461f89",
+      "date": "2024-08-04",
+      "currency": "U$S",
+      "rate": 40.459,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "5b130735-f135-424c-8624-c651a87e651c",
+      "date": "2024-08-05",
+      "currency": "U$S",
+      "rate": 40.631,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "9dfa2d7c-40ca-4344-b2c8-74cdd9011d37",
+      "date": "2024-08-06",
+      "currency": "U$S",
+      "rate": 40.501,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "18c7d4a4-b5a5-482c-825a-f5cd1f4acd2f",
+      "date": "2024-08-07",
+      "currency": "U$S",
+      "rate": 40.405,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ea215d22-098f-4f80-92a5-559fdedddff3",
+      "date": "2024-08-08",
+      "currency": "U$S",
+      "rate": 40.296,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "5e83a699-d39b-4bf5-a1f7-4454e2eaaaac",
+      "date": "2024-08-09",
+      "currency": "U$S",
+      "rate": 40.207,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "1171665b-3517-4bd1-9c29-c69445816236",
+      "date": "2024-08-10",
+      "currency": "U$S",
+      "rate": 40.207,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "d4bb4cf0-eb64-4f3b-9d0b-cfd8c14e298e",
+      "date": "2024-08-11",
+      "currency": "U$S",
+      "rate": 40.207,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "a9d58cfb-6e4b-4270-8208-09deffa96ca9",
+      "date": "2024-08-12",
+      "currency": "U$S",
+      "rate": 40.285,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "2af3cbdb-9b87-43f1-8da2-baa48c440218",
+      "date": "2024-08-13",
+      "currency": "U$S",
+      "rate": 40.395,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "70a3db24-7474-430e-a673-44f96e060070",
+      "date": "2024-08-14",
+      "currency": "U$S",
+      "rate": 40.269,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "663e7463-f232-4d51-aff7-8722b7b30d1a",
+      "date": "2024-08-15",
+      "currency": "U$S",
+      "rate": 40.33,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "4d9317a5-4812-463c-ae40-0654cd98bebf",
+      "date": "2024-08-16",
+      "currency": "U$S",
+      "rate": 40.331,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "53fc2c01-87cc-4da6-866e-aeebb386009b",
+      "date": "2024-08-17",
+      "currency": "U$S",
+      "rate": 40.331,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3235053b-7ca3-4b2c-934e-b73a4549eac9",
+      "date": "2024-08-18",
+      "currency": "U$S",
+      "rate": 40.331,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ae0eecfb-1997-413b-8b0d-f96822d1136f",
+      "date": "2024-08-19",
+      "currency": "U$S",
+      "rate": 40.244,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "639f44f3-1558-433b-aa22-6d3ea25d7d64",
+      "date": "2024-08-20",
+      "currency": "U$S",
+      "rate": 40.261,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "8d50350c-83bd-4d0d-8cc0-29e637256bde",
+      "date": "2024-08-21",
+      "currency": "U$S",
+      "rate": 40.338,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f38730fe-a975-4dc0-bb93-7913d8038462",
+      "date": "2024-08-22",
+      "currency": "U$S",
+      "rate": 40.348,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "1ace578e-faac-43cb-babf-eb4e4ee68eb9",
+      "date": "2024-08-23",
+      "currency": "U$S",
+      "rate": 40.251,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "a759c7b1-0ff3-42d3-8898-5185305fe137",
+      "date": "2024-08-24",
+      "currency": "U$S",
+      "rate": 40.251,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "732e2e1e-d11d-453e-8b3b-fb4e5381885f",
+      "date": "2024-08-25",
+      "currency": "U$S",
+      "rate": 40.251,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "b1c3ee82-b9cc-4e88-a4f1-43df6aec444f",
+      "date": "2024-08-26",
+      "currency": "U$S",
+      "rate": 40.239,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "a6ae6d48-127e-4e9e-9b03-ca357effa934",
+      "date": "2024-08-27",
+      "currency": "U$S",
+      "rate": 40.279,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0ae53fe1-3bfc-4946-87c2-9188fffdf04e",
+      "date": "2024-08-28",
+      "currency": "U$S",
+      "rate": 40.25,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "6b401d7c-637a-45a5-b3d1-9189228c6c32",
+      "date": "2024-08-29",
+      "currency": "U$S",
+      "rate": 40.347,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "590e9ade-9d07-4663-9024-c386ffc83623",
+      "date": "2024-08-30",
+      "currency": "U$S",
+      "rate": 40.335,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "20c0c1a1-5e38-45d0-b342-1b2676243422",
+      "date": "2024-08-31",
+      "currency": "U$S",
+      "rate": 40.335,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "5746549d-74e4-4287-9126-ba02ce3feb41",
+      "date": "2024-09-01",
+      "currency": "U$S",
+      "rate": 40.335,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c03b2d30-0697-4a40-9385-fc554b421786",
+      "date": "2024-09-02",
+      "currency": "U$S",
+      "rate": 40.296,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "8d0bdd67-b42e-498e-a9a8-f867fe8b3891",
+      "date": "2024-09-03",
+      "currency": "U$S",
+      "rate": 40.333,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "411741ef-afdd-4a2e-9738-9758c373ba28",
+      "date": "2024-09-04",
+      "currency": "U$S",
+      "rate": 40.367,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "53a220f6-6e67-4728-a039-9cfd971f0dfd",
+      "date": "2024-09-05",
+      "currency": "U$S",
+      "rate": 40.333,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "b48300ef-07a3-4c04-b8ec-4c1376118238",
+      "date": "2024-09-06",
+      "currency": "U$S",
+      "rate": 40.346,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "a8c6c5a6-f863-4421-a7fb-d408eff81343",
+      "date": "2024-09-07",
+      "currency": "U$S",
+      "rate": 40.346,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "6d125540-de56-4c87-84cb-e3839728d7b4",
+      "date": "2024-09-08",
+      "currency": "U$S",
+      "rate": 40.346,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0d70730a-0e9f-4327-9474-51aacb9e1746",
+      "date": "2024-09-09",
+      "currency": "U$S",
+      "rate": 40.389,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "30b33c84-e51e-47bb-8534-09b52249b397",
+      "date": "2024-09-10",
+      "currency": "U$S",
+      "rate": 40.437,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "6dc3b13e-18ca-4237-a56a-5b0da33a125d",
+      "date": "2024-09-11",
+      "currency": "U$S",
+      "rate": 41.027,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "409816d2-84b2-43f3-8c3b-6fcb1c0b9f11",
+      "date": "2024-09-12",
+      "currency": "U$S",
+      "rate": 41.071,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "1d11141e-0b97-408c-967d-1eb16692a009",
+      "date": "2024-09-13",
+      "currency": "U$S",
+      "rate": 40.767,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "561f0ba5-509e-4a7a-bd28-e50088d83941",
+      "date": "2024-09-14",
+      "currency": "U$S",
+      "rate": 40.767,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "315a674f-9761-44d1-8bbe-08515fc6bddf",
+      "date": "2024-09-15",
+      "currency": "U$S",
+      "rate": 40.767,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ae76bfc9-b7ba-44b1-b9dc-65ffd487010f",
+      "date": "2024-09-16",
+      "currency": "U$S",
+      "rate": 40.956,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f95cfab2-1f54-4813-a9b8-9909e52aa320",
+      "date": "2024-09-17",
+      "currency": "U$S",
+      "rate": 41.063,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "53968122-5168-43b9-bc50-5eb281527413",
+      "date": "2024-09-18",
+      "currency": "U$S",
+      "rate": 41.307,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3ff8e22e-4a12-47a0-a3f8-dbecdeb46d7f",
+      "date": "2024-09-19",
+      "currency": "U$S",
+      "rate": 41.599,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0c11e6b3-ba4e-4c40-9b60-855545c79609",
+      "date": "2024-09-20",
+      "currency": "U$S",
+      "rate": 41.677,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "1721eb25-a53d-4787-85a1-450f9165bacf",
+      "date": "2024-09-21",
+      "currency": "U$S",
+      "rate": 41.677,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "a4d40e54-107c-4606-9e61-be1a2328fa90",
+      "date": "2024-09-22",
+      "currency": "U$S",
+      "rate": 41.677,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "743054f8-55fc-4033-bb34-daa68a9a01e3",
+      "date": "2024-09-23",
+      "currency": "U$S",
+      "rate": 42.104,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "5c638861-01f7-45bf-9970-c6992ab48dc7",
+      "date": "2024-09-24",
+      "currency": "U$S",
+      "rate": 42.254,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c7eb9b40-d8a8-474e-a0b8-7f137d671c08",
+      "date": "2024-09-25",
+      "currency": "U$S",
+      "rate": 41.914,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "17d5c3e8-25a9-4ae5-a4b3-b8171dca3bac",
+      "date": "2024-09-26",
+      "currency": "U$S",
+      "rate": 41.69,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "016f7468-7e1b-4f40-b978-5e28b27cc3e6",
+      "date": "2024-09-27",
+      "currency": "U$S",
+      "rate": 41.554,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "932072b0-8db4-4c30-a819-f25c8858e7fa",
+      "date": "2024-09-28",
+      "currency": "U$S",
+      "rate": 41.554,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0fece05d-9321-4abb-aef1-70e8d31fac3a",
+      "date": "2024-09-29",
+      "currency": "U$S",
+      "rate": 41.554,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "72f765a6-e87c-4331-9a94-bfb2c7b7f0eb",
+      "date": "2024-09-30",
+      "currency": "U$S",
+      "rate": 41.64,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f6ab7491-c445-4ffb-9202-aec465dd7da3",
+      "date": "2024-10-01",
+      "currency": "U$S",
+      "rate": 41.884,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "db3591d4-0385-4bd6-84a7-a848d94ee126",
+      "date": "2024-10-02",
+      "currency": "U$S",
+      "rate": 41.804,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f3641f3f-129d-4c54-8e29-346da635bb42",
+      "date": "2024-10-03",
+      "currency": "U$S",
+      "rate": 41.67,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "9b384387-73da-4384-ad20-c50c5e159e8a",
+      "date": "2024-10-04",
+      "currency": "U$S",
+      "rate": 41.316,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "b314e821-9632-4788-8140-38bb6c2bda68",
+      "date": "2024-10-05",
+      "currency": "U$S",
+      "rate": 41.316,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0fe742c1-541c-48b1-97a7-67aa6e8c0da7",
+      "date": "2024-10-06",
+      "currency": "U$S",
+      "rate": 41.316,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "432840ec-259f-46d1-a635-b14b6ea106a5",
+      "date": "2024-10-07",
+      "currency": "U$S",
+      "rate": 41.161,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c2d8e3d1-9d0f-4953-abda-1634cef41271",
+      "date": "2024-10-08",
+      "currency": "U$S",
+      "rate": 41.543,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3bd2b390-8da8-482c-adbd-5633f0ae5b21",
+      "date": "2024-10-09",
+      "currency": "U$S",
+      "rate": 41.796,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "91901cb2-e58c-4e9c-819f-b19803a1bbd1",
+      "date": "2024-10-10",
+      "currency": "U$S",
+      "rate": 41.726,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "166715ae-61ed-44fd-9d0e-e6df11115b74",
+      "date": "2024-10-11",
+      "currency": "U$S",
+      "rate": 41.535,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "6de8d8e3-5519-4273-9426-eb3b2acef938",
+      "date": "2024-10-12",
+      "currency": "U$S",
+      "rate": 41.535,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "009adde1-1b15-4a25-98fd-37b3690192f8",
+      "date": "2024-10-13",
+      "currency": "U$S",
+      "rate": 41.535,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "bdbc1b86-c4e3-4eb9-a982-102c63b0d4af",
+      "date": "2024-10-14",
+      "currency": "U$S",
+      "rate": 41.424,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f0d5bee7-269a-443f-8c15-1058930fabe8",
+      "date": "2024-10-15",
+      "currency": "U$S",
+      "rate": 41.689,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "cf7e4b74-1ccc-4c3d-bdce-ed19cef550cc",
+      "date": "2024-10-16",
+      "currency": "U$S",
+      "rate": 41.876,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ec894df1-8f0d-43a3-bb75-a4027134d063",
+      "date": "2024-10-17",
+      "currency": "U$S",
+      "rate": 41.63,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "369ea7c1-f47f-489b-8dab-33323d500213",
+      "date": "2024-10-18",
+      "currency": "U$S",
+      "rate": 41.546,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "7ccb9acb-f224-458d-bdd8-62662e1e621f",
+      "date": "2024-10-19",
+      "currency": "U$S",
+      "rate": 41.546,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3d81db54-3b97-4faf-b232-8b678d79f48e",
+      "date": "2024-10-20",
+      "currency": "U$S",
+      "rate": 41.546,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "384d3e7a-97f2-4eaf-8836-417af757abbe",
+      "date": "2024-10-21",
+      "currency": "U$S",
+      "rate": 41.448,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "74443c2d-2da8-4a70-a9d9-00dbbe2737a2",
+      "date": "2024-10-22",
+      "currency": "U$S",
+      "rate": 41.514,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "18fb3e80-a322-4e9c-9e31-fc3553696785",
+      "date": "2024-10-23",
+      "currency": "U$S",
+      "rate": 41.596,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0091b6c0-63c3-44d8-aa54-c59c3521c256",
+      "date": "2024-10-24",
+      "currency": "U$S",
+      "rate": 41.602,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c479d2e6-df94-4016-8659-48de0a3a12f1",
+      "date": "2024-10-25",
+      "currency": "U$S",
+      "rate": 41.556,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "1e3bbea7-75cf-4556-869a-5d0185447911",
+      "date": "2024-10-26",
+      "currency": "U$S",
+      "rate": 41.556,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "590fa524-10a5-4876-aa31-aabef9b0aa4b",
+      "date": "2024-10-27",
+      "currency": "U$S",
+      "rate": 41.556,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "acadd966-6405-4196-a8af-21d852a69fc5",
+      "date": "2024-10-28",
+      "currency": "U$S",
+      "rate": 40.984,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "833d4813-fc78-4b19-b931-1a5706ae7d31",
+      "date": "2024-10-29",
+      "currency": "U$S",
+      "rate": 41.185,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "9b6556f8-8ef1-401f-a561-3de51e76f6bb",
+      "date": "2024-10-30",
+      "currency": "U$S",
+      "rate": 41.4,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "9e09cd4d-54b2-4ba0-9f77-a78f45b9c065",
+      "date": "2024-10-31",
+      "currency": "U$S",
+      "rate": 41.649,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "ba2c5dfc-c7e8-41cb-b942-2efe775a2e6f",
+      "date": "2024-11-01",
+      "currency": "U$S",
+      "rate": 41.589,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f34639c2-8392-4824-8e75-a859586ed32c",
+      "date": "2024-11-02",
+      "currency": "U$S",
+      "rate": 41.589,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "d606b937-d9e9-4571-a4f6-236957bb8c80",
+      "date": "2024-11-03",
+      "currency": "U$S",
+      "rate": 41.589,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3fa31f1a-306c-4ebc-a350-9161a508071c",
+      "date": "2024-11-04",
+      "currency": "U$S",
+      "rate": 41.598,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "a410208e-a048-4158-a7d2-fbac5f18ad04",
+      "date": "2024-11-05",
+      "currency": "U$S",
+      "rate": 41.559,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c07435f6-8750-4ed4-b30d-a416997761d3",
+      "date": "2024-11-06",
+      "currency": "U$S",
+      "rate": 41.763,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "8a65be94-205a-4b72-9c63-ebdd6e5eb81d",
+      "date": "2024-11-07",
+      "currency": "U$S",
+      "rate": 41.731,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c2677a6f-5bdd-4208-af98-9b6fd64ee02d",
+      "date": "2024-11-08",
+      "currency": "U$S",
+      "rate": 42.146,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "cab2c62c-4abd-41e8-80e8-80536d691bee",
+      "date": "2024-11-09",
+      "currency": "U$S",
+      "rate": 42.146,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "983fa3af-9b48-4bad-af2d-376bf242d872",
+      "date": "2024-11-10",
+      "currency": "U$S",
+      "rate": 42.146,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "e56b6c1f-b8da-4d42-81f2-e70117f0845b",
+      "date": "2024-11-11",
+      "currency": "U$S",
+      "rate": 42.319,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f921ef4e-3129-4ed7-8aa6-6ba1948e517f",
+      "date": "2024-11-12",
+      "currency": "U$S",
+      "rate": 42.469,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "c1ccf6d6-dcde-4255-9fc8-8eae900773dc",
+      "date": "2024-11-13",
+      "currency": "U$S",
+      "rate": 42.899,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "4f59264a-7593-45d7-b36b-b8d82e7e87a5",
+      "date": "2024-11-14",
+      "currency": "U$S",
+      "rate": 42.87,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "0091a272-69b4-48ea-9514-980eb82b07df",
+      "date": "2024-11-15",
+      "currency": "U$S",
+      "rate": 42.913,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "b9357930-198d-4266-9998-5a6611f3855d",
+      "date": "2024-11-16",
+      "currency": "U$S",
+      "rate": 42.913,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "4685cb72-af91-40f1-b7d1-6c81860d3282",
+      "date": "2024-11-17",
+      "currency": "U$S",
+      "rate": 42.913,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "3f5e8dda-546b-489f-a17b-9424adedb26a",
+      "date": "2024-11-18",
+      "currency": "U$S",
+      "rate": 42.725,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f376b627-331a-42a5-bb15-5569d3a3af5f",
+      "date": "2024-11-19",
+      "currency": "U$S",
+      "rate": 42.602,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "4fe2d6ba-2239-4d2e-90c7-3dc941ca2d84",
+      "date": "2024-11-20",
+      "currency": "U$S",
+      "rate": 42.509,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "7e235e30-2369-4c09-a8fc-6d6c2bce636c",
+      "date": "2024-11-21",
+      "currency": "U$S",
+      "rate": 42.609,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "b19ca1fb-e2af-4f84-82e0-d40c8804fed1",
+      "date": "2024-11-22",
+      "currency": "U$S",
+      "rate": 42.6,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "f9319c0f-684f-499e-99bd-d640053fa78a",
+      "date": "2024-11-23",
+      "currency": "U$S",
+      "rate": 42.6,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    },
+    {
+      "id": "4d192699-8d7b-4b40-ae60-daeac5b6fcfd",
+      "date": "2024-11-24",
+      "currency": "U$S",
+      "rate": 42.6,
+      "source": "excel_import",
+      "createdAt": "2024-11-26T16:27:19.819Z",
+      "updatedAt": "2024-11-26T16:27:19.819Z"
+    }
+  ]
+}
